@@ -30,8 +30,8 @@ DNS - 增强模式 - 【Fake - IP至域名映射】
 2.用户拥有iphone或者ipad。  
 具备以上条件后，开始介绍本节方法  
 ## （1）注册一个apple美区账户
-这一步无需使用苹果设备或者海外手机号码。
-1.打开苹果注册官网: https://link.zhihu.com/?target=https%3A//account.apple.com/account
+这一步无需使用苹果设备或者海外手机号码。  
+1.打开苹果注册官网: https://link.zhihu.com/?target=https%3A//account.apple.com/account  
 2.填写注册信息,注意如下事项：  
 国家或地区：务必选择 美国（United States）  
 其他个人信息可正常填写  
