@@ -24,19 +24,19 @@ DNS - 增强模式 - 【Fake - IP至域名映射】
 1.关闭手机热点或关闭clash  
 2.将ubuntu的网络代理设置为自动或禁用。  
 # 3.chatgpt升级（苹果礼品卡充值，最适合小白）
-这里面向的是chatgpt重度使用人群，想升级chatgpt plus但是不知道该怎么弄的可以看看这个。
-使用本节的方法，您需要具备以下条件：
-1.用户已经拥有了一个chatgpt账户。
-2.用户拥有iphone或者ipad。
-具备以上条件后，开始介绍
+这里面向的是chatgpt重度使用人群，想升级chatgpt plus但是不知道该怎么弄的可以看看这个。  
+使用本节的方法，您需要具备以下条件：  
+1.用户已经拥有了一个chatgpt账户。  
+2.用户拥有iphone或者ipad。  
+具备以上条件后，开始介绍本节方法  
 ## （1）注册一个apple美区账户
 这一步无需使用苹果设备或者海外手机号码。
 1.打开苹果注册官网: https://link.zhihu.com/?target=https%3A//account.apple.com/account
-2.填写注册信息,注意如下事项：
-国家或地区：务必选择 美国（United States）
-其他个人信息可正常填写
-邮箱：必须能正常接收验证码（后续邮箱验证用，建议用google邮箱或者outlook邮箱）
-手机号：可使用中国大陆手机号，能接收短信即可
+2.填写注册信息,注意如下事项：  
+国家或地区：务必选择 美国（United States）  
+其他个人信息可正常填写  
+邮箱：必须能正常接收验证码（后续邮箱验证用，建议用google邮箱或者outlook邮箱）  
+手机号：可使用中国大陆手机号，能接收短信即可  
 <img width="893" height="1087" alt="image" src="https://github.com/user-attachments/assets/b85897b1-c6cf-456f-94e4-988340d6cd91" />  
 
 3.验证邮箱与手机号
