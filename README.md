@@ -58,10 +58,14 @@ DNS - 增强模式 - 【Fake - IP至域名映射】
 使用免费版本的vpn，然后再打开chatgpt app，如果能够正常登录，就说明这一步成功了，这里就直接在app中登录你要充值的gpt账号即可。
 ![1c295df02bd938fe3c60b6c638ea4b87](https://github.com/user-attachments/assets/9ffcac20-1917-4a2d-b932-800ed8b56683)  
 ## （3）通过支付宝给你的apple美区账户充值
-
-
-
-
+这里我参考的是这一篇小红书: https://www.xiaohongshu.com/discovery/item/665a83740000000016013867?source=webshare&xhsshare=pc_web&xsec_token=CBZPYbHc5_HAn31lqAN_xJGUqL1lG6Rqd6m_fQP0j7HeM=&xsec_source=pc_share  
+1.打开支付宝，把地址切换为旧金山
+![5351b5c02d897915713a7509cfb153eb](https://github.com/user-attachments/assets/40e566e1-eba8-4d24-adf0-e689faf797a1)  
+2.支付宝首页搜索PockyShop  
+![97eea8eeaff19905d91f332d25dd8906](https://github.com/user-attachments/assets/a8cb34f5-2256-4b26-be35-9cd3b3a02d74)  
+3.输入你要充值的金额，下单成功后获取卡密  
+![8f6d9fb9c796fcbd427571aa3fcc10d8](https://github.com/user-attachments/assets/e8e9df6f-904a-4d6f-9643-ed5bee549748)  
+4.打开iphone或者ipad的app store，将礼物卡充值进去。
 
 
 
