@@ -49,7 +49,7 @@ DNS - 增强模式 - 【Fake - IP至域名映射】
 这里还需要生成美国的地址，使用这个网站可以随机生成: https://www.shenfendaquan.com/
 <img width="921" height="1019" alt="image" src="https://github.com/user-attachments/assets/ec78cab8-2f55-4c52-b569-b60da1091e20" />  
 5.登录新的美区 Apple ID
-在mac、iphone或者ipad上登陆刚刚注册的美区账号
+在mac、iphone或者ipad上登陆刚刚注册的美区账号  
 6.app store上搜索chatgpt，如果能搜到，就说明成功了。
 ![20d393b4e87866c082f8c10a4e65dee1](https://github.com/user-attachments/assets/92d42126-02e5-4280-802a-bdef065fe1e1)  
 ## （2）下载一个可用的梯子，并在chatgpt app上登录要充值的账号
@@ -76,7 +76,7 @@ DNS - 增强模式 - 【Fake - IP至域名映射】
 一般来说，如果之前的填的账单地址（使用网站生成的地址）是真实地址的话，这里就直接付款成功了，如果出现验证apple账户的情况，那就说明之前填入的地址为无效地址，还需要在设置中修改成正确的真实地址，这篇文章中提供了一些真实有效的账单地址。  
 https://juejin.cn/post/7530464752063381550  
 如果出现了“你的购买无法完成”这样的提示  
-![b7977f233b2e42d0cfe162743346c82c](https://github.com/user-attachments/assets/98342edd-c108-4e68-a50a-1d59bc59e5d2)  
+<img width="618" height="1192" alt="image" src="https://github.com/user-attachments/assets/dc453274-4def-4e71-9a50-68617a7f6854" />  
 这个时候就需要联系苹果客服进行处理了，可以参考这一篇笔记  
 https://www.xiaohongshu.com/discovery/item/69255ae0000000001e02c914?app_platform=android&ignoreEngage=true&app_version=9.3.0&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CBDPkXssx07G_yXfgzrRV1ZF-4xVq_2nf3pmTZDTUIWYs%3D&author_share=1&xhsshare=WeixinSession&shareRedId=N0tGOTs2SE82NzUyOTgwNjY0OTc6NTw6&apptime=1764429645&share_id=f59a18c0c3be4b3eb9e6086b2ccd3471&share_channel=wechat#pushState
 
