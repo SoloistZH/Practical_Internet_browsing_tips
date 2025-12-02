@@ -73,11 +73,12 @@ DNS - 增强模式 - 【Fake - IP至域名映射】
 ## （4）最后一步，打开chatgpt(确保上面登陆了你要充值的账号),使用apple pay充值chatgpt plus
 <img width="1006" height="1065" alt="image" src="https://github.com/user-attachments/assets/18e657fa-0d71-417f-b547-70c39a9cfa23" />  
 <img width="1003" height="905" alt="image" src="https://github.com/user-attachments/assets/11f1cc64-2fdd-432b-8b5d-2076be126ccc" />  
-一般来说，如果之前的填的账单地址（使用网站生成的地址）是真实地址的话，这里就直接付款成功了，如果出现验证apple账户的情况，那就说明之前填入的地址为无效地址，还需要在设置中修改成正确的真实地址，这篇文章中提供了一些真实有效的账单地址。  
+一般来说，如果之前的填的账单地址（使用网站生成的地址）是真实地址的话，这里就直接付款成功了，如果出现验证apple账户的情况，那就说明之前填入的地址为无效地址，还需要在设置中将apple账户的地址修改成正确的真实地址，这篇文章中提供了一些真实有效的账单地址。  
 https://juejin.cn/post/7530464752063381550  
 如果出现了“你的购买无法完成”这样的提示  
 <img width="618" height="1192" alt="image" src="https://github.com/user-attachments/assets/dc453274-4def-4e71-9a50-68617a7f6854" />  
-这个时候就需要联系苹果客服进行处理了，可以参考这一篇笔记  
+  
+这个时候就需要联系苹果客服进行处理了，可以参考这一篇笔记    
 https://www.xiaohongshu.com/discovery/item/69255ae0000000001e02c914?app_platform=android&ignoreEngage=true&app_version=9.3.0&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CBDPkXssx07G_yXfgzrRV1ZF-4xVq_2nf3pmTZDTUIWYs%3D&author_share=1&xhsshare=WeixinSession&shareRedId=N0tGOTs2SE82NzUyOTgwNjY0OTc6NTw6&apptime=1764429645&share_id=f59a18c0c3be4b3eb9e6086b2ccd3471&share_channel=wechat#pushState
 
 
